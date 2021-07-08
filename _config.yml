@@ -9,9 +9,8 @@ theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
----
-title: "Julio Koy Cordero"
-date: 2021-07-07
----
-
 show_excerpts: true # set to false to remove excerpts on the homepage
+--- 
+Title: "Julio Koy Cordero"
+Date: 2021-07-07
+---
